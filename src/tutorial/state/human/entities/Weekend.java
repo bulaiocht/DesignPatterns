@@ -1,8 +1,10 @@
 package tutorial.state.human.entities;
 
 /**
+ *
  * Created by Kocherha Vitalii on 26.05.2016.
  */
+
 public class Weekend implements Activity {
 
     private int daysRested = 0;

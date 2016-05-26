@@ -5,6 +5,7 @@ import tutorial.state.radio.entities.RadioDFM;
 import tutorial.state.radio.entities.Station;
 
 /**
+ *
  * Created by Kocherha Vitalii on 26.05.2016.
  */
 public class StateMain {
