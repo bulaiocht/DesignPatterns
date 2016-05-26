@@ -6,10 +6,13 @@ import implementation.state.entities.phenomena.Meadow;
 import implementation.state.entities.phenomena.WaterBody;
 
 /**
+ * Class with static main method
  * Created by Kocherha Vitalii on 26.05.2016.
  */
 public class PersonMain {
+
     public static void main(String[] args) {
+
         Person person = new Person();
         //Acting as a common person
         person.act();
