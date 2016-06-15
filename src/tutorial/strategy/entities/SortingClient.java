@@ -5,6 +5,7 @@ package tutorial.strategy.entities;
  * Created by Kocherha Vitalii on 31.05.2016.
  */
 public class SortingClient {
+
     private Sorting sorting;
 
     public void setSorting(Sorting sorting) {
@@ -14,4 +15,5 @@ public class SortingClient {
     public void performStrategy(int[] arr) {
         this.sorting.sort(arr);
     }
+
 }
